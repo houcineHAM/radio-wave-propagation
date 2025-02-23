@@ -1,4 +1,3 @@
-% Nom:hamnouche Prénom : Houcine promotion : ige45
 function plotTwoRayModel(Pt, Glos, Gref, ht, hr, d, f, R)
     % Two-ray model calculations
     d_los = sqrt((ht - hr)^2 + d.^2);
