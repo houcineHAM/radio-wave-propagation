@@ -1,4 +1,3 @@
-% Nom:hamnouche Prénom : Houcine promotion : ige45
 function [Gv] = diffractionLoss(v)
 % Compute diffraction loss G(v) dB for Fresnel-Kirchoff parameter (v)
 % according to Rec. ITU-R P.526-5
