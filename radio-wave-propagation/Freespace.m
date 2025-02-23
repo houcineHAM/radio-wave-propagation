@@ -1,4 +1,3 @@
-% Nom:hamnouche Prénom : Houcine promotion : ige45
 function [Pr_dBm] = friisfreespace(Pt_dBm, Gt_dBi, Gr_dBi, f, d, L, n)
 lambda = 3 * 10^8 / f;
 Pt_W = 1e-3 * 10^(Pt_dBm/10);
