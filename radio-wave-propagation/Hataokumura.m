@@ -1,4 +1,3 @@
-% Nom:hamnouche Prénom : Houcine promotion : ige45
 function PL = hataokumura(fc, d, hb, hm, environment_type)
     % Hata-Okumura model for propagation loss
     % fc - frequency in MHz (single value)
