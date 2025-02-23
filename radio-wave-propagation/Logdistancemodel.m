@@ -1,4 +1,3 @@
-% Nom:hamnouche Prénom : Houcine promotion : ige45
 % Calculates the received power using the Friis Free Space model
 function [Pr_dBm] = friisfreespace(Pt_dBm, Gt_dBi, Gr_dBi, f, d, L, n)
 lambda = 3 * 10^8 / f; % Wavelength in meters
