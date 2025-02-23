@@ -27,7 +27,7 @@ Each model is implemented in MATLAB, and includes reports and code for detailed 
 
 ## Reports
 
-Each model includes a detailed report in Word format explaining the theoretical background, MATLAB code, and results. You can find the reports in the repository.
+Each model includes a detailed report in Word format and written in french explaining the theoretical background, MATLAB code, and results. You can find the reports in the repository.
 
 ## License
 
